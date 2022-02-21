@@ -99,6 +99,11 @@ class CitiesSlider extends React.Component {
     city: 'Médiathèque',
     country: 'La',
     img: 'https://image.jimcdn.com/app/cms/image/transf/dimension=682x2048:format=jpg/path/sb96c01c741db7101/image/iee933ecc8d194019/version/1617735038/image.jpg/' },
+
+    {
+        city: 'Coin-Du-Lac',
+        country: 'Fontaine',
+        img: 'https://image.jimcdn.com/app/cms/image/transf/dimension=682x2048:format=jpg/path/sb96c01c741db7101/image/ia7bb21dd5457bf5d/version/1617690211/image.jpg/' },
   
     {
       city: 'Jean-Jaurès',
