@@ -77,7 +77,7 @@ class CitiesSlider extends React.Component {
   
   const slides = [
   {
-    city: 'Aux   Mort',
+    city: 'Aux-Morts',
     country: 'Monument',
     img: 'https://image.jimcdn.com/app/cms/image/transf/dimension=682x2048:format=jpg/path/sb96c01c741db7101/image/ie5a564fb0f997125/version/1617690211/image.jpg/' },
   {
@@ -107,7 +107,7 @@ class CitiesSlider extends React.Component {
   
     {
       city: 'Jean-Jaurès',
-      country: 'Statut',
+      country: 'Statue',
       img: 'https://image.jimcdn.com/app/cms/image/transf/dimension=682x2048:format=jpg/path/sb96c01c741db7101/image/i7b7d6fec1d54286b/version/1617690211/image.jpg/' }];
     
    
