@@ -77,7 +77,7 @@ class CitiesSlider extends React.Component {
   
   const slides = [
   {
-    city: 'Aux-Morts',
+    city: 'De-Paix',
     country: 'Monument',
     img: 'https://image.jimcdn.com/app/cms/image/transf/dimension=682x2048:format=jpg/path/sb96c01c741db7101/image/ie5a564fb0f997125/version/1617690211/image.jpg/' },
   {
